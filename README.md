@@ -3,7 +3,7 @@
 This project is a ''Bank Employee Portal'' developed using Java Swing for a GUI, providing login functionality for both admins and employees with file-based credential storage. Admins and employees have access to a dashboard featuring account management (adding, deducting funds, creating, deleting accounts), account display, a to-do list, emergency contact information, and transaction history (admin-only). The portal emphasizes easy navigation, role-based access, and a user-friendly interface for basic bank management operations.
 # Login Page
 
-![Screenshot 2024-10-22 211058](https://github.com/user-attachments/assets/251bc6af-aac7-455a-9e3b-c842e249e42f)
+![Login Page](https://github.com/user-attachments/assets/7050f3e7-9669-4d8d-8669-91ad635da9b7)
 
 # Dash Board
 
